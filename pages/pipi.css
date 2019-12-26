@@ -1,0 +1,41 @@
+@font-face {font-family: salkin;  src: url(salkin.eot);  }
+html, body, td, input, select, textarea { font-family: salkin; font-size: 12pt }
+body, select{
+scrollbar-base-color:#0099FF;
+SCROLLBAR-HIGHLIGHT-COLOR:#F7F7F7;
+SCROLLBAR-SHADOW-COLOR: #000000;
+SCROLLBAR-3DLIGHT-COLOR:#000000;
+SCROLLBAR-TRACK-COLOR: #F7F7F7;
+SCROLLBAR-DARKSHADOW-COLOR:#F7F7F7;
+}
+
+a:visited { color: #0099cc; text-decoration: none}
+a:link {  color: #0099cc; text-decoration: none}
+a:hover {  color: #FF0000; text-decoration: underline}
+a:active.b {
+	color: #000000;
+	text-decoration: none;
+	
+}
+a:link.b {
+	color: #333333;
+	text-decoration: none;
+	
+}
+a:visited.b {
+	color: #333333;
+	text-decoration: none;
+	
+}
+a:hover.b {
+	color: #FF0000;
+	text-decoration: underline;
+	font-size: 12px;
+}
+.h {  clip:   rect(   ); line-height: 12px}
+.copy {  font-family: "Verdana"; font-size: 12px}
+a1:link {text-decoration: none;
+}
+a:link.copy {text-decoration: none;}
+a:visited.copy {	text-decoration: none;}
+a:active.copy {		text-decoration: none;}
